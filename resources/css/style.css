@@ -22,13 +22,13 @@ h3{
   font-size:21px;
 }
 
-
-p {
+.link {
   font-size:16px;
   color: Aquamarine;
 }
 
 .footer{
+  font-family:Verdana;
   color: gray;
   text-align:right;
 }
